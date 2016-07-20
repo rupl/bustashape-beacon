@@ -1,0 +1,13 @@
+{
+  "name": "bustashape-beacon",
+  "description": "Physical Web beacon for bustashape.com",
+  "repository": "git@github.com:rupl/bustashape-beacon.git",
+  "license": "MIT",
+  "engines": {
+    "node": "6.3.0",
+    "npm": "3.10.3"
+  },
+  "dependencies": {
+    "eddystone-beacon": "^1.0.6"
+  }
+}
